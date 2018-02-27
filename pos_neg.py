@@ -1,13 +1,3 @@
-#========================================================================#
-#                                 Part 2                                 #
-#========================================================================#
-#       Data Mining Technology for Business and Society - HW 3           #
-#                                    De Petris, Luca. Matricola: 1506567 #
-#                           Fadel Argerich, Mauricio. Matricola: 1739634 #
-#                                     Lazareva, Olga. Matricola: 1771649 #
-#========================================================================#
-
-
 from sklearn.datasets import load_files
 from sklearn.model_selection import train_test_split
 
